@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyavantha_ce_docs=self.webpackChunkyavantha_ce_docs||[]).push([[756],{374:a=>{a.exports=JSON.parse('{"title":"Advanced","slug":"/category/advanced","permalink":"/docs/category/advanced","navigation":{"previous":{"title":"Navigation","permalink":"/docs/navigation"},"next":{"title":"Architecture","permalink":"/docs/Advanced/architecture"}}}')}}]);

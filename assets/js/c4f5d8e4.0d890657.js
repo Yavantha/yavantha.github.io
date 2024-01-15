@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyavantha_ce_docs=self.webpackChunkyavantha_ce_docs||[]).push([[195],{2841:(a,c,e)=>{e.r(c),e.d(c,{default:()=>n});var s=e(6550),t=e(5893);function n(){return(0,t.jsx)(s.l_,{to:"/docs/intro"})}}}]);
